@@ -1,6 +1,8 @@
 site_name: Mkdocs try
 theme:
   name: material
+  custom_dir: overrides
+  
   features:
     - navigation.tabs
     - navigation.sections
