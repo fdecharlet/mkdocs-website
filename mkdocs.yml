@@ -29,8 +29,6 @@ theme:
       accent: lime
 
 extra:
-  version:
-    provider: mike
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/fdecharlet
