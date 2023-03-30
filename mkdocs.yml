@@ -36,11 +36,16 @@ extra:
       link: https://www.linkedin.com/in/florian-charlet/
 
 
-
-
 copyright: |
   &copy; 2023 <a href="https://github.com/fdecharlet"  target="_blank" rel="noopener">Florian Charlet</a>
 
 
 repo_url: https://github.com/fdecharlet/mkdocs-website
 repo_name: fdecharlet/mkdocs-website
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
