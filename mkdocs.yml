@@ -60,6 +60,3 @@ markdown_extensions:
 copyright: |
   &copy; 2023 <a href="https://github.com/fdecharlet"  target="_blank" rel="noopener">Florian Charlet</a>
 
-plugins:
-  - git-revision-date-localized:
-      enable_creation_date: true
