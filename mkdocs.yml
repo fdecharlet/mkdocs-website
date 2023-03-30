@@ -41,3 +41,6 @@ extra:
 copyright: |
   &copy; 2023 <a href="https://github.com/fdecharlet"  target="_blank" rel="noopener">Florian Charlet</a>
 
+
+repo_url: https://github.com/fdecharlet/mkdocs-website
+repo_name: fdecharlet/mkdocs-website
