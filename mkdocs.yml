@@ -3,9 +3,6 @@ theme:
   name: material
   custom_dir: overrides
 
-repo_url: https://github.com/fdecharlet/mkdocs-website
-repo_name: fdecharlet/mkdocs-website
-
   
   features:
     - navigation.tabs
